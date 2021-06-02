@@ -1,0 +1,28 @@
+{
+  "name": "goit-node-hw-01-CLI-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksimuser/goit-node-hw-01-CLI-app.git"
+  },
+  "keywords": [],
+  "author": "Dema Maksim <maksimdema@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maksimuser/goit-node-hw-01-CLI-app/issues"
+  },
+  "homepage": "https://github.com/maksimuser/goit-node-hw-01-CLI-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
